@@ -1,0 +1,499 @@
+{
+	"fields": ["brokerSymbol"],
+	"symbols": [{
+		"s": "OANDA:XAGUSD",
+		"f": ["XAG/USD"]
+	},
+	{
+		"s": "OANDA:GBPSGD",
+		"f": ["GBP/SGD"]
+	},
+	{
+		"s": "OANDA:USDTHB",
+		"f": ["USD/THB"]
+	},
+	{
+		"s": "OANDA:XAGSGD",
+		"f": ["XAG/SGD"]
+	},
+	{
+		"s": "OANDA:NZDSGD",
+		"f": ["NZD/SGD"]
+	},
+	{
+		"s": "OANDA:EURNZD",
+		"f": ["EUR/NZD"]
+	},
+	{
+		"s": "OANDA:ZARJPY",
+		"f": ["ZAR/JPY"]
+	},
+	{
+		"s": "OANDA:AUDHKD",
+		"f": ["AUD/HKD"]
+	},
+	{
+		"s": "OANDA:GBPCHF",
+		"f": ["GBP/CHF"]
+	},
+	{
+		"s": "OANDA:USDCNH",
+		"f": ["USD/CNH"]
+	},
+	{
+		"s": "OANDA:AU200AUD",
+		"f": ["AU200/AUD"]
+	},
+	{
+		"s": "OANDA:AUDCAD",
+		"f": ["AUD/CAD"]
+	},
+	{
+		"s": "OANDA:NZDCHF",
+		"f": ["NZD/CHF"]
+	},
+	{
+		"s": "OANDA:USDSEK",
+		"f": ["USD/SEK"]
+	},
+	{
+		"s": "OANDA:XCUUSD",
+		"f": ["XCU/USD"]
+	},
+	{
+		"s": "OANDA:USB30YUSD",
+		"f": ["USB30Y/USD"]
+	},
+	{
+		"s": "OANDA:EURZAR",
+		"f": ["EUR/ZAR"]
+	},
+	{
+		"s": "OANDA:AUDSGD",
+		"f": ["AUD/SGD"]
+	},
+	{
+		"s": "OANDA:DE10YBEUR",
+		"f": ["DE10YB/EUR"]
+	},
+	{
+		"s": "OANDA:GBPAUD",
+		"f": ["GBP/AUD"]
+	},
+	{
+		"s": "OANDA:XAUNZD",
+		"f": ["XAU/NZD"]
+	},
+	{
+		"s": "OANDA:CORNUSD",
+		"f": ["CORN/USD"]
+	},
+	{
+		"s": "OANDA:CHFJPY",
+		"f": ["CHF/JPY"]
+	},
+	{
+		"s": "OANDA:GBPCAD",
+		"f": ["GBP/CAD"]
+	},
+	{
+		"s": "OANDA:SGDJPY",
+		"f": ["SGD/JPY"]
+	},
+	{
+		"s": "OANDA:DE30EUR",
+		"f": ["DE30/EUR"]
+	},
+	{
+		"s": "OANDA:AUDCHF",
+		"f": ["AUD/CHF"]
+	},
+	{
+		"s": "OANDA:GBPHKD",
+		"f": ["GBP/HKD"]
+	},
+	{
+		"s": "OANDA:NZDUSD",
+		"f": ["NZD/USD"]
+	},
+	{
+		"s": "OANDA:CADSGD",
+		"f": ["CAD/SGD"]
+	},
+	{
+		"s": "OANDA:EURCAD",
+		"f": ["EUR/CAD"]
+	},
+	{
+		"s": "OANDA:XAGCAD",
+		"f": ["XAG/CAD"]
+	},
+	{
+		"s": "OANDA:EURNOK",
+		"f": ["EUR/NOK"]
+	},
+	{
+		"s": "OANDA:XAGHKD",
+		"f": ["XAG/HKD"]
+	},
+	{
+		"s": "OANDA:XAGEUR",
+		"f": ["XAG/EUR"]
+	},
+	{
+		"s": "OANDA:XAUJPY",
+		"f": ["XAU/JPY"]
+	},
+	{
+		"s": "OANDA:UK100GBP",
+		"f": ["UK100/GBP"]
+	},
+	{
+		"s": "OANDA:XAUGBP",
+		"f": ["XAU/GBP"]
+	},
+	{
+		"s": "OANDA:USDZAR",
+		"f": ["USD/ZAR"]
+	},
+	{
+		"s": "OANDA:EURHKD",
+		"f": ["EUR/HKD"]
+	},
+	{
+		"s": "OANDA:EURDKK",
+		"f": ["EUR/DKK"]
+	},
+	{
+		"s": "OANDA:SG30SGD",
+		"f": ["SG30/SGD"]
+	},
+	{
+		"s": "OANDA:USDMXN",
+		"f": ["USD/MXN"]
+	},
+	{
+		"s": "OANDA:AUDUSD",
+		"f": ["AUD/USD"]
+	},
+	{
+		"s": "OANDA:EURCZK",
+		"f": ["EUR/CZK"]
+	},
+	{
+		"s": "OANDA:XPDUSD",
+		"f": ["XPD/USD"]
+	},
+	{
+		"s": "OANDA:GBPJPY",
+		"f": ["GBP/JPY"]
+	},
+	{
+		"s": "OANDA:XAGCHF",
+		"f": ["XAG/CHF"]
+	},
+	{
+		"s": "OANDA:GBPPLN",
+		"f": ["GBP/PLN"]
+	},
+	{
+		"s": "OANDA:CHFZAR",
+		"f": ["CHF/ZAR"]
+	},
+	{
+		"s": "OANDA:XAGAUD",
+		"f": ["XAG/AUD"]
+	},
+	{
+		"s": "OANDA:EURGBP",
+		"f": ["EUR/GBP"]
+	},
+	{
+		"s": "OANDA:USB10YUSD",
+		"f": ["USB10Y/USD"]
+	},
+	{
+		"s": "OANDA:US2000USD",
+		"f": ["US2000/USD"]
+	},
+	{
+		"s": "OANDA:EURHUF",
+		"f": ["EUR/HUF"]
+	},
+	{
+		"s": "OANDA:UK10YBGBP",
+		"f": ["UK10YB/GBP"]
+	},
+	{
+		"s": "OANDA:XPTUSD",
+		"f": ["XPT/USD"]
+	},
+	{
+		"s": "OANDA:NZDCAD",
+		"f": ["NZD/CAD"]
+	},
+	{
+		"s": "OANDA:EURPLN",
+		"f": ["EUR/PLN"]
+	},
+	{
+		"s": "OANDA:CADCHF",
+		"f": ["CAD/CHF"]
+	},
+	{
+		"s": "OANDA:NZDHKD",
+		"f": ["NZD/HKD"]
+	},
+	{
+		"s": "OANDA:SOYBNUSD",
+		"f": ["SOYBN/USD"]
+	},
+	{
+		"s": "OANDA:USDHUF",
+		"f": ["USD/HUF"]
+	},
+	{
+		"s": "OANDA:EURJPY",
+		"f": ["EUR/JPY"]
+	},
+	{
+		"s": "OANDA:EURUSD",
+		"f": ["EUR/USD"]
+	},
+	{
+		"s": "OANDA:GBPNZD",
+		"f": ["GBP/NZD"]
+	},
+	{
+		"s": "OANDA:USDJPY",
+		"f": ["USD/JPY"]
+	},
+	{
+		"s": "OANDA:SGDCHF",
+		"f": ["SGD/CHF"]
+	},
+	{
+		"s": "OANDA:XAUEUR",
+		"f": ["XAU/EUR"]
+	},
+	{
+		"s": "OANDA:USDPLN",
+		"f": ["USD/PLN"]
+	},
+	{
+		"s": "OANDA:XAUHKD",
+		"f": ["XAU/HKD"]
+	},
+	{
+		"s": "OANDA:USDINR",
+		"f": ["USD/INR"]
+	},
+	{
+		"s": "OANDA:JP225USD",
+		"f": ["JP225/USD"]
+	},
+	{
+		"s": "OANDA:HKDJPY",
+		"f": ["HKD/JPY"]
+	},
+	{
+		"s": "OANDA:XAGNZD",
+		"f": ["XAG/NZD"]
+	},
+	{
+		"s": "OANDA:NAS100USD",
+		"f": ["NAS100/USD"]
+	},
+	{
+		"s": "OANDA:USDSAR",
+		"f": ["USD/SAR"]
+	},
+	{
+		"s": "OANDA:NATGASUSD",
+		"f": ["NATGAS/USD"]
+	},
+	{
+		"s": "OANDA:EURSGD",
+		"f": ["EUR/SGD"]
+	},
+	{
+		"s": "OANDA:XAUCAD",
+		"f": ["XAU/CAD"]
+	},
+	{
+		"s": "OANDA:CADHKD",
+		"f": ["CAD/HKD"]
+	},
+	{
+		"s": "OANDA:AUDNZD",
+		"f": ["AUD/NZD"]
+	},
+	{
+		"s": "OANDA:XAUXAG",
+		"f": ["XAU/XAG"]
+	},
+	{
+		"s": "OANDA:TRYJPY",
+		"f": ["TRY/JPY"]
+	},
+	{
+		"s": "OANDA:USDCZK",
+		"f": ["USD/CZK"]
+	},
+	{
+		"s": "OANDA:XAUCHF",
+		"f": ["XAU/CHF"]
+	},
+	{
+		"s": "OANDA:NZDJPY",
+		"f": ["NZD/JPY"]
+	},
+	{
+		"s": "OANDA:CADJPY",
+		"f": ["CAD/JPY"]
+	},
+	{
+		"s": "OANDA:EURCHF",
+		"f": ["EUR/CHF"]
+	},
+	{
+		"s": "OANDA:GBPZAR",
+		"f": ["GBP/ZAR"]
+	},
+	{
+		"s": "OANDA:USDNOK",
+		"f": ["USD/NOK"]
+	},
+	{
+		"s": "OANDA:XAGGBP",
+		"f": ["XAG/GBP"]
+	},
+	{
+		"s": "OANDA:USDCAD",
+		"f": ["USD/CAD"]
+	},
+	{
+		"s": "OANDA:XAUAUD",
+		"f": ["XAU/AUD"]
+	},
+	{
+		"s": "OANDA:USDDKK",
+		"f": ["USD/DKK"]
+	},
+	{
+		"s": "OANDA:WHEATUSD",
+		"f": ["WHEAT/USD"]
+	},
+	{
+		"s": "OANDA:USDHKD",
+		"f": ["USD/HKD"]
+	},
+	{
+		"s": "OANDA:XAGJPY",
+		"f": ["XAG/JPY"]
+	},
+	{
+		"s": "OANDA:EURTRY",
+		"f": ["EUR/TRY"]
+	},
+	{
+		"s": "OANDA:EURAUD",
+		"f": ["EUR/AUD"]
+	},
+	{
+		"s": "OANDA:NL25EUR",
+		"f": ["NL25/EUR"]
+	},
+	{
+		"s": "OANDA:WTICOUSD",
+		"f": ["WTICO/USD"]
+	},
+	{
+		"s": "OANDA:USDTRY",
+		"f": ["USD/TRY"]
+	},
+	{
+		"s": "OANDA:CHFHKD",
+		"f": ["CHF/HKD"]
+	},
+	{
+		"s": "OANDA:EU50EUR",
+		"f": ["EU50/EUR"]
+	},
+	{
+		"s": "OANDA:AUDJPY",
+		"f": ["AUD/JPY"]
+	},
+	{
+		"s": "OANDA:HK33HKD",
+		"f": ["HK33/HKD"]
+	},
+	{
+		"s": "OANDA:SUGARUSD",
+		"f": ["SUGAR/USD"]
+	},
+	{
+		"s": "OANDA:XAUSGD",
+		"f": ["XAU/SGD"]
+	},
+	{
+		"s": "OANDA:EURSEK",
+		"f": ["EUR/SEK"]
+	},
+	{
+		"s": "OANDA:USDCHF",
+		"f": ["USD/CHF"]
+	},
+	{
+		"s": "OANDA:XAUUSD",
+		"f": ["XAU/USD"]
+	},
+	{
+		"s": "OANDA:SPX500USD",
+		"f": ["SPX500/USD"]
+	},
+	{
+		"s": "OANDA:BCOUSD",
+		"f": ["BCO/USD"]
+	},
+	{
+		"s": "OANDA:US30USD",
+		"f": ["US30/USD"]
+	},
+	{
+		"s": "OANDA:SGDHKD",
+		"f": ["SGD/HKD"]
+	},
+	{
+		"s": "OANDA:USDSGD",
+		"f": ["USD/SGD"]
+	},
+	{
+		"s": "OANDA:USB02YUSD",
+		"f": ["USB02Y/USD"]
+	},
+	{
+		"s": "OANDA:GBPUSD",
+		"f": ["GBP/USD"]
+	},
+	{
+		"s": "OANDA:FR40EUR",
+		"f": ["FR40/EUR"]
+	},
+	{
+		"s": "OANDA:USB05YUSD",
+		"f": ["USB05Y/USD"]
+	},
+	{
+		"s": "OANDA:CN50USD",
+		"f": ["CN50/USD"]
+	},
+	{
+		"s": "OANDA:IN50USD",
+		"f": ["IN50/USD"]
+	},
+	{
+		"s": "OANDA:TWIXUSD",
+		"f": ["TWIX/USD"]
+	}]
+}

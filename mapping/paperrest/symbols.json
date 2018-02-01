@@ -1,0 +1,67 @@
+{
+    "symbols": [
+        {
+            "f": [
+                "FX_IDC:AUDUSD"
+            ],
+            "s": "FX_IDC:AUDUSD"
+        },
+        {
+            "f": [
+                "FX_IDC:ZARPLX"
+            ],
+            "s": "FX_IDC:ZARPLX"
+        },
+        {
+            "f": [
+                "FX_IDC:AUGUSD"
+            ],
+            "s": "FX_IDC:AUGUSD"
+        },
+        {
+            "f": [
+                "FX_IDC:BWPUSD"
+            ],
+            "s": "FX_IDC:BWPUSD"
+        },
+        {
+            "f": [
+                "FX_IDC:DOEUSD"
+            ],
+            "s": "FX_IDC:DOEUSD"
+        },
+        {
+            "f": [
+                "FX_IDC:EURUSD"
+            ],
+            "s": "FX_IDC:EURUSD"
+        },
+        {
+            "f": [
+                "FX_IDC:GBPUSD"
+            ],
+            "s": "FX_IDC:GBPUSD"
+        },
+        {
+            "f": [
+                "FX_IDC:KRUUSD"
+            ],
+            "s": "FX_IDC:KRUUSD"
+        },
+        {
+            "f": [
+                "FX_IDC:MALUSD"
+            ],
+            "s": "FX_IDC:MALUSD"
+        },
+        {
+            "f": [
+                "FX_IDC:NSOUSD"
+            ],
+            "s": "FX_IDC:NSOUSD"
+        }
+    ],
+    "fields": [
+        "brokerSymbol"
+    ]
+}
