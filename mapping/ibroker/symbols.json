@@ -1,1 +1,1 @@
-{"symbols":[{"f":["EUR/USD"],"s":"FX:EURUSD"},{"f":["EUR/JPY"],"s":"FX:EURJPY"},{"f":["USD/CAD"],"s":"FX:USDCAD"},{"f":["YMM8"],"s":"CBOT_MINI:YMM2018"},{"f":["YMU8"],"s":"CBOT_MINI:YMU2018"}],"fields":["brokerSymbol"]}
+{"symbols":[{"f":["EUR/USD"],"s":"FX:EURUSD"},{"f":["EUR/JPY"],"s":"FX:EURJPY"},{"f":["USD/CAD"],"s":"FX:USDCAD"},{"f":["YMM8"],"s":"CBOT_MINI:YMM2018"},{"f":["YMU8"],"s":"CBOT_MINI:YMU2018"},{"f":["US30"],"s":"TVC:DJI"},{"f":["GER30"],"s":"TVC:DEU30"},{"f":["ESP35"],"s":"TVC:IBEX35"}],"fields":["brokerSymbol"]}
