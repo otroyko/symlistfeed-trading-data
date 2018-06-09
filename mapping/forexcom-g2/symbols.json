@@ -2,7 +2,7 @@
 	"fields": ["brokerSymbol"],
 	"symbols": [{
 		"s": "FOREXCOM:CHN50",
-		"f": ["China A50 CFD"]
+		"f": ["CHINA A50 CFD"]
 	},
 	{
 		"s": "FOREXCOM:XAGAUD",
@@ -374,31 +374,31 @@
 	},
 	{
 		"s": "FOREXCOM:BTCUSD",
-		"f": ["Bitcoin ($)"]
+		"f": ["BITCOIN ($)"]
 	},
 	{
 		"s": "FOREXCOM:AUXAUD",
-		"f": ["Australia 200 CFD"]
+		"f": ["AUSTRALIA 200 CFD"]
 	},
 	{
 		"s": "FOREXCOM:EU50",
-		"f": ["EU Stocks 50 CFD"]
+		"f": ["EU STOCKS 50 CFD"]
 	},
 	{
 		"s": "FOREXCOM:FRXEUR",
-		"f": ["France 40 CFD"]
+		"f": ["FRANCE 40 CFD"]
 	},
 	{
 		"s": "FOREXCOM:GRXEUR",
-		"f": ["Germany 30 CFD"]
+		"f": ["GERMANY 30 CFD"]
 	},
 	{
 		"s": "FOREXCOM:HKXHKD",
-		"f": ["Hong Kong 50 CFD"]
+		"f": ["HONG KONG 50 CFD"]
 	},
 	{
 		"s": "FOREXCOM:JPXJPY",
-		"f": ["Japan 225 CFD"]
+		"f": ["JAPAN 225 CFD"]
 	},
 	{
 		"s": "FOREXCOM:UKXGBP",
@@ -410,50 +410,50 @@
 	},
 	{
 		"s": "FOREXCOM:NSXUSD",
-		"f": ["US Tech 100 CFD"]
+		"f": ["US TECH 100 CFD"]
 	},
 	{
 		"s": "FOREXCOM:DJI",
-		"f": ["Wall Street CFD"]
+		"f": ["WALL STREET CFD"]
 	},
 	{
 		"s": "FOREXCOM:ITA40",
-		"f": ["Italy 40 CFD"]
+		"f": ["ITALY 40 CFD"]
 	},
 	{
 		"s": "FOREXCOM:NL25EUR",
-		"f": ["Netherlands 25 (per 0.05) CFD"]
+		"f": ["NETHERLANDS 25 (PER 0.05) CFD"]
 	},
 	{
 		"s": "FOREXCOM:US2000",
-		"f": ["US Small Cap 2000 CFD"]
+		"f": ["US SMALL CAP 2000 CFD"]
 	},
 	{
 		"s": "FOREXCOM:SIMSCI",
-		"f": ["Singapore Index (per 0.1) CFD"]
+		"f": ["SINGAPORE INDEX (PER 0.1) CFD"]
 	},
 	{
 		"s": "FOREXCOM:ESP35",
-		"f": ["Spain 35 CFD"]
+		"f": ["SPAIN 35 CFD"]
 	},
 	{
 		"s": "FOREXCOM:CH20",
-		"f": ["Switzerland 20 CFD"]
+		"f": ["SWITZERLAND 20 CFD"]
 	},
 	{
 		"s": "FOREXCOM:BTCGBP",
-		"f": ["Bitcoin (£)"]
+		"f": ["BITCOIN (£)"]
 	},
 	{
 		"s": "FOREXCOM:BTCEUR",
-		"f": ["Bitcoin (€)"]
+		"f": ["BITCOIN (€)"]
 	},
 	{
 		"s": "FOREXCOM:BTCAUD",
-		"f": ["Bitcoin (AUD)"]
+		"f": ["BITCOIN (AUD)"]
 	},
 	{
 		"s": "FOREXCOM:ETHUSD",
-		"f": ["Ethereum ($)"]
+		"f": ["ETHEREUM ($)"]
 	}]
 }
