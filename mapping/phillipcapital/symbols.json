@@ -1,0 +1,3781 @@
+{
+  "symbols": [
+    {
+      "f": [
+        "IDX:AALI"
+      ],
+      "s": "IDX:AALI"
+    },
+    {
+      "f": [
+        "IDX:ABBA"
+      ],
+      "s": "IDX:ABBA"
+    },
+    {
+      "f": [
+        "IDX:ABDA"
+      ],
+      "s": "IDX:ABDA"
+    },
+    {
+      "f": [
+        "IDX:ABMM"
+      ],
+      "s": "IDX:ABMM"
+    },
+    {
+      "f": [
+        "IDX:ACES"
+      ],
+      "s": "IDX:ACES"
+    },
+    {
+      "f": [
+        "IDX:ACST"
+      ],
+      "s": "IDX:ACST"
+    },
+    {
+      "f": [
+        "IDX:ADES"
+      ],
+      "s": "IDX:ADES"
+    },
+    {
+      "f": [
+        "IDX:ADHI"
+      ],
+      "s": "IDX:ADHI"
+    },
+    {
+      "f": [
+        "IDX:ADMF"
+      ],
+      "s": "IDX:ADMF"
+    },
+    {
+      "f": [
+        "IDX:ADMG"
+      ],
+      "s": "IDX:ADMG"
+    },
+    {
+      "f": [
+        "IDX:ADRO"
+      ],
+      "s": "IDX:ADRO"
+    },
+    {
+      "f": [
+        "IDX:AGII"
+      ],
+      "s": "IDX:AGII"
+    },
+    {
+      "f": [
+        "IDX:AGRO"
+      ],
+      "s": "IDX:AGRO"
+    },
+    {
+      "f": [
+        "IDX:AGRS"
+      ],
+      "s": "IDX:AGRS"
+    },
+    {
+      "f": [
+        "IDX:AHAP"
+      ],
+      "s": "IDX:AHAP"
+    },
+    {
+      "f": [
+        "IDX:AIMS"
+      ],
+      "s": "IDX:AIMS"
+    },
+    {
+      "f": [
+        "IDX:AISA"
+      ],
+      "s": "IDX:AISA"
+    },
+    {
+      "f": [
+        "IDX:AKKU"
+      ],
+      "s": "IDX:AKKU"
+    },
+    {
+      "f": [
+        "IDX:AKPI"
+      ],
+      "s": "IDX:AKPI"
+    },
+    {
+      "f": [
+        "IDX:AKRA"
+      ],
+      "s": "IDX:AKRA"
+    },
+    {
+      "f": [
+        "IDX:AKSI"
+      ],
+      "s": "IDX:AKSI"
+    },
+    {
+      "f": [
+        "IDX:ALDO"
+      ],
+      "s": "IDX:ALDO"
+    },
+    {
+      "f": [
+        "IDX:ALKA"
+      ],
+      "s": "IDX:ALKA"
+    },
+    {
+      "f": [
+        "IDX:ALMI"
+      ],
+      "s": "IDX:ALMI"
+    },
+    {
+      "f": [
+        "IDX:ALTO"
+      ],
+      "s": "IDX:ALTO"
+    },
+    {
+      "f": [
+        "IDX:AMAG"
+      ],
+      "s": "IDX:AMAG"
+    },
+    {
+      "f": [
+        "IDX:AMFG"
+      ],
+      "s": "IDX:AMFG"
+    },
+    {
+      "f": [
+        "IDX:AMIN"
+      ],
+      "s": "IDX:AMIN"
+    },
+    {
+      "f": [
+        "IDX:AMRT"
+      ],
+      "s": "IDX:AMRT"
+    },
+    {
+      "f": [
+        "IDX:ANDI"
+      ],
+      "s": "IDX:ANDI"
+    },
+    {
+      "f": [
+        "IDX:ANJT"
+      ],
+      "s": "IDX:ANJT"
+    },
+    {
+      "f": [
+        "IDX:ANTM"
+      ],
+      "s": "IDX:ANTM"
+    },
+    {
+      "f": [
+        "IDX:APEX"
+      ],
+      "s": "IDX:APEX"
+    },
+    {
+      "f": [
+        "IDX:APIC"
+      ],
+      "s": "IDX:APIC"
+    },
+    {
+      "f": [
+        "IDX:APII"
+      ],
+      "s": "IDX:APII"
+    },
+    {
+      "f": [
+        "IDX:APLI"
+      ],
+      "s": "IDX:APLI"
+    },
+    {
+      "f": [
+        "IDX:APLN"
+      ],
+      "s": "IDX:APLN"
+    },
+    {
+      "f": [
+        "IDX:APOL"
+      ],
+      "s": "IDX:APOL"
+    },
+    {
+      "f": [
+        "IDX:ARGO"
+      ],
+      "s": "IDX:ARGO"
+    },
+    {
+      "f": [
+        "IDX:ARII"
+      ],
+      "s": "IDX:ARII"
+    },
+    {
+      "f": [
+        "IDX:ARMY"
+      ],
+      "s": "IDX:ARMY"
+    },
+    {
+      "f": [
+        "IDX:ARNA"
+      ],
+      "s": "IDX:ARNA"
+    },
+    {
+      "f": [
+        "IDX:ARTA"
+      ],
+      "s": "IDX:ARTA"
+    },
+    {
+      "f": [
+        "IDX:ARTI"
+      ],
+      "s": "IDX:ARTI"
+    },
+    {
+      "f": [
+        "IDX:ARTO"
+      ],
+      "s": "IDX:ARTO"
+    },
+    {
+      "f": [
+        "IDX:ASBI"
+      ],
+      "s": "IDX:ASBI"
+    },
+    {
+      "f": [
+        "IDX:ASDM"
+      ],
+      "s": "IDX:ASDM"
+    },
+    {
+      "f": [
+        "IDX:ASGR"
+      ],
+      "s": "IDX:ASGR"
+    },
+    {
+      "f": [
+        "IDX:ASII"
+      ],
+      "s": "IDX:ASII"
+    },
+    {
+      "f": [
+        "IDX:ASJT"
+      ],
+      "s": "IDX:ASJT"
+    },
+    {
+      "f": [
+        "IDX:ASMI"
+      ],
+      "s": "IDX:ASMI"
+    },
+    {
+      "f": [
+        "IDX:ASRI"
+      ],
+      "s": "IDX:ASRI"
+    },
+    {
+      "f": [
+        "IDX:ASRM"
+      ],
+      "s": "IDX:ASRM"
+    },
+    {
+      "f": [
+        "IDX:ASSA"
+      ],
+      "s": "IDX:ASSA"
+    },
+    {
+      "f": [
+        "IDX:ATIC"
+      ],
+      "s": "IDX:ATIC"
+    },
+    {
+      "f": [
+        "IDX:ATPK"
+      ],
+      "s": "IDX:ATPK"
+    },
+    {
+      "f": [
+        "IDX:AUTO"
+      ],
+      "s": "IDX:AUTO"
+    },
+    {
+      "f": [
+        "IDX:BABP"
+      ],
+      "s": "IDX:BABP"
+    },
+    {
+      "f": [
+        "IDX:BACA"
+      ],
+      "s": "IDX:BACA"
+    },
+    {
+      "f": [
+        "IDX:BAJA"
+      ],
+      "s": "IDX:BAJA"
+    },
+    {
+      "f": [
+        "IDX:BALI"
+      ],
+      "s": "IDX:BALI"
+    },
+    {
+      "f": [
+        "IDX:BAPA"
+      ],
+      "s": "IDX:BAPA"
+    },
+    {
+      "f": [
+        "IDX:BATA"
+      ],
+      "s": "IDX:BATA"
+    },
+    {
+      "f": [
+        "IDX:BAYU"
+      ],
+      "s": "IDX:BAYU"
+    },
+    {
+      "f": [
+        "IDX:BBCA"
+      ],
+      "s": "IDX:BBCA"
+    },
+    {
+      "f": [
+        "IDX:BBHI"
+      ],
+      "s": "IDX:BBHI"
+    },
+    {
+      "f": [
+        "IDX:BBKP"
+      ],
+      "s": "IDX:BBKP"
+    },
+    {
+      "f": [
+        "IDX:BBLD"
+      ],
+      "s": "IDX:BBLD"
+    },
+    {
+      "f": [
+        "IDX:BBMD"
+      ],
+      "s": "IDX:BBMD"
+    },
+    {
+      "f": [
+        "IDX:BBNI"
+      ],
+      "s": "IDX:BBNI"
+    },
+    {
+      "f": [
+        "IDX:BBNP"
+      ],
+      "s": "IDX:BBNP"
+    },
+    {
+      "f": [
+        "IDX:BBRI"
+      ],
+      "s": "IDX:BBRI"
+    },
+    {
+      "f": [
+        "IDX:BBRM"
+      ],
+      "s": "IDX:BBRM"
+    },
+    {
+      "f": [
+        "IDX:BBTN"
+      ],
+      "s": "IDX:BBTN"
+    },
+    {
+      "f": [
+        "IDX:BBYB"
+      ],
+      "s": "IDX:BBYB"
+    },
+    {
+      "f": [
+        "IDX:BCAP"
+      ],
+      "s": "IDX:BCAP"
+    },
+    {
+      "f": [
+        "IDX:BCIC"
+      ],
+      "s": "IDX:BCIC"
+    },
+    {
+      "f": [
+        "IDX:BCIP"
+      ],
+      "s": "IDX:BCIP"
+    },
+    {
+      "f": [
+        "IDX:BDMN"
+      ],
+      "s": "IDX:BDMN"
+    },
+    {
+      "f": [
+        "IDX:BEKS"
+      ],
+      "s": "IDX:BEKS"
+    },
+    {
+      "f": [
+        "IDX:BELL"
+      ],
+      "s": "IDX:BELL"
+    },
+    {
+      "f": [
+        "IDX:BEST"
+      ],
+      "s": "IDX:BEST"
+    },
+    {
+      "f": [
+        "IDX:BFIN"
+      ],
+      "s": "IDX:BFIN"
+    },
+    {
+      "f": [
+        "IDX:BGTG"
+      ],
+      "s": "IDX:BGTG"
+    },
+    {
+      "f": [
+        "IDX:BHIT"
+      ],
+      "s": "IDX:BHIT"
+    },
+    {
+      "f": [
+        "IDX:BIKA"
+      ],
+      "s": "IDX:BIKA"
+    },
+    {
+      "f": [
+        "IDX:BIMA"
+      ],
+      "s": "IDX:BIMA"
+    },
+    {
+      "f": [
+        "IDX:BINA"
+      ],
+      "s": "IDX:BINA"
+    },
+    {
+      "f": [
+        "IDX:BIPI"
+      ],
+      "s": "IDX:BIPI"
+    },
+    {
+      "f": [
+        "IDX:BIPP"
+      ],
+      "s": "IDX:BIPP"
+    },
+    {
+      "f": [
+        "IDX:BIRD"
+      ],
+      "s": "IDX:BIRD"
+    },
+    {
+      "f": [
+        "IDX:BISI"
+      ],
+      "s": "IDX:BISI"
+    },
+    {
+      "f": [
+        "IDX:BJBR"
+      ],
+      "s": "IDX:BJBR"
+    },
+    {
+      "f": [
+        "IDX:BJTM"
+      ],
+      "s": "IDX:BJTM"
+    },
+    {
+      "f": [
+        "IDX:BKDP"
+      ],
+      "s": "IDX:BKDP"
+    },
+    {
+      "f": [
+        "IDX:BKSL"
+      ],
+      "s": "IDX:BKSL"
+    },
+    {
+      "f": [
+        "IDX:BKSW"
+      ],
+      "s": "IDX:BKSW"
+    },
+    {
+      "f": [
+        "IDX:BLTA"
+      ],
+      "s": "IDX:BLTA"
+    },
+    {
+      "f": [
+        "IDX:BLTZ"
+      ],
+      "s": "IDX:BLTZ"
+    },
+    {
+      "f": [
+        "IDX:BMAS"
+      ],
+      "s": "IDX:BMAS"
+    },
+    {
+      "f": [
+        "IDX:BMRI"
+      ],
+      "s": "IDX:BMRI"
+    },
+    {
+      "f": [
+        "IDX:BMSR"
+      ],
+      "s": "IDX:BMSR"
+    },
+    {
+      "f": [
+        "IDX:BMTR"
+      ],
+      "s": "IDX:BMTR"
+    },
+    {
+      "f": [
+        "IDX:BNBA"
+      ],
+      "s": "IDX:BNBA"
+    },
+    {
+      "f": [
+        "IDX:BNBR"
+      ],
+      "s": "IDX:BNBR"
+    },
+    {
+      "f": [
+        "IDX:BNGA"
+      ],
+      "s": "IDX:BNGA"
+    },
+    {
+      "f": [
+        "IDX:BNII"
+      ],
+      "s": "IDX:BNII"
+    },
+    {
+      "f": [
+        "IDX:BNLI"
+      ],
+      "s": "IDX:BNLI"
+    },
+    {
+      "f": [
+        "IDX:BOGA"
+      ],
+      "s": "IDX:BOGA"
+    },
+    {
+      "f": [
+        "IDX:BOLT"
+      ],
+      "s": "IDX:BOLT"
+    },
+    {
+      "f": [
+        "IDX:BORN"
+      ],
+      "s": "IDX:BORN"
+    },
+    {
+      "f": [
+        "IDX:BOSS"
+      ],
+      "s": "IDX:BOSS"
+    },
+    {
+      "f": [
+        "IDX:BPFI"
+      ],
+      "s": "IDX:BPFI"
+    },
+    {
+      "f": [
+        "IDX:BPII"
+      ],
+      "s": "IDX:BPII"
+    },
+    {
+      "f": [
+        "IDX:BPTR"
+      ],
+      "s": "IDX:BPTR"
+    },
+    {
+      "f": [
+        "IDX:BRAM"
+      ],
+      "s": "IDX:BRAM"
+    },
+    {
+      "f": [
+        "IDX:BRAU"
+      ],
+      "s": "IDX:BRAU"
+    },
+    {
+      "f": [
+        "IDX:BRIS"
+      ],
+      "s": "IDX:BRIS"
+    },
+    {
+      "f": [
+        "IDX:BRMS"
+      ],
+      "s": "IDX:BRMS"
+    },
+    {
+      "f": [
+        "IDX:BRNA"
+      ],
+      "s": "IDX:BRNA"
+    },
+    {
+      "f": [
+        "IDX:BRPT"
+      ],
+      "s": "IDX:BRPT"
+    },
+    {
+      "f": [
+        "IDX:BSDE"
+      ],
+      "s": "IDX:BSDE"
+    },
+    {
+      "f": [
+        "IDX:BSIM"
+      ],
+      "s": "IDX:BSIM"
+    },
+    {
+      "f": [
+        "IDX:BSSR"
+      ],
+      "s": "IDX:BSSR"
+    },
+    {
+      "f": [
+        "IDX:BSWD"
+      ],
+      "s": "IDX:BSWD"
+    },
+    {
+      "f": [
+        "IDX:BTEK"
+      ],
+      "s": "IDX:BTEK"
+    },
+    {
+      "f": [
+        "IDX:BTEL"
+      ],
+      "s": "IDX:BTEL"
+    },
+    {
+      "f": [
+        "IDX:BTON"
+      ],
+      "s": "IDX:BTON"
+    },
+    {
+      "f": [
+        "IDX:BTPN"
+      ],
+      "s": "IDX:BTPN"
+    },
+    {
+      "f": [
+        "IDX:BTPS"
+      ],
+      "s": "IDX:BTPS"
+    },
+    {
+      "f": [
+        "IDX:BUDI"
+      ],
+      "s": "IDX:BUDI"
+    },
+    {
+      "f": [
+        "IDX:BUKK"
+      ],
+      "s": "IDX:BUKK"
+    },
+    {
+      "f": [
+        "IDX:BULL"
+      ],
+      "s": "IDX:BULL"
+    },
+    {
+      "f": [
+        "IDX:BUMI"
+      ],
+      "s": "IDX:BUMI"
+    },
+    {
+      "f": [
+        "IDX:BUVA"
+      ],
+      "s": "IDX:BUVA"
+    },
+    {
+      "f": [
+        "IDX:BVIC"
+      ],
+      "s": "IDX:BVIC"
+    },
+    {
+      "f": [
+        "IDX:BWPT"
+      ],
+      "s": "IDX:BWPT"
+    },
+    {
+      "f": [
+        "IDX:BYAN"
+      ],
+      "s": "IDX:BYAN"
+    },
+    {
+      "f": [
+        "IDX:CAMP"
+      ],
+      "s": "IDX:CAMP"
+    },
+    {
+      "f": [
+        "IDX:CANI"
+      ],
+      "s": "IDX:CANI"
+    },
+    {
+      "f": [
+        "IDX:CARS"
+      ],
+      "s": "IDX:CARS"
+    },
+    {
+      "f": [
+        "IDX:CASA"
+      ],
+      "s": "IDX:CASA"
+    },
+    {
+      "f": [
+        "IDX:CASS"
+      ],
+      "s": "IDX:CASS"
+    },
+    {
+      "f": [
+        "IDX:CEKA"
+      ],
+      "s": "IDX:CEKA"
+    },
+    {
+      "f": [
+        "IDX:CENT"
+      ],
+      "s": "IDX:CENT"
+    },
+    {
+      "f": [
+        "IDX:CFIN"
+      ],
+      "s": "IDX:CFIN"
+    },
+    {
+      "f": [
+        "IDX:CINT"
+      ],
+      "s": "IDX:CINT"
+    },
+    {
+      "f": [
+        "IDX:CITA"
+      ],
+      "s": "IDX:CITA"
+    },
+    {
+      "f": [
+        "IDX:CKRA"
+      ],
+      "s": "IDX:CKRA"
+    },
+    {
+      "f": [
+        "IDX:CLEO"
+      ],
+      "s": "IDX:CLEO"
+    },
+    {
+      "f": [
+        "IDX:CLPI"
+      ],
+      "s": "IDX:CLPI"
+    },
+    {
+      "f": [
+        "IDX:CMNP"
+      ],
+      "s": "IDX:CMNP"
+    },
+    {
+      "f": [
+        "IDX:CMPP"
+      ],
+      "s": "IDX:CMPP"
+    },
+    {
+      "f": [
+        "IDX:CNKO"
+      ],
+      "s": "IDX:CNKO"
+    },
+    {
+      "f": [
+        "IDX:CNTB"
+      ],
+      "s": "IDX:CNTB"
+    },
+    {
+      "f": [
+        "IDX:CNTX"
+      ],
+      "s": "IDX:CNTX"
+    },
+    {
+      "f": [
+        "IDX:COWL"
+      ],
+      "s": "IDX:COWL"
+    },
+    {
+      "f": [
+        "IDX:CPGT"
+      ],
+      "s": "IDX:CPGT"
+    },
+    {
+      "f": [
+        "IDX:CPIN"
+      ],
+      "s": "IDX:CPIN"
+    },
+    {
+      "f": [
+        "IDX:CPRO"
+      ],
+      "s": "IDX:CPRO"
+    },
+    {
+      "f": [
+        "IDX:CSAP"
+      ],
+      "s": "IDX:CSAP"
+    },
+    {
+      "f": [
+        "IDX:CSIS"
+      ],
+      "s": "IDX:CSIS"
+    },
+    {
+      "f": [
+        "IDX:CTBN"
+      ],
+      "s": "IDX:CTBN"
+    },
+    {
+      "f": [
+        "IDX:CTRA"
+      ],
+      "s": "IDX:CTRA"
+    },
+    {
+      "f": [
+        "IDX:CTTH"
+      ],
+      "s": "IDX:CTTH"
+    },
+    {
+      "f": [
+        "IDX:DAJK"
+      ],
+      "s": "IDX:DAJK"
+    },
+    {
+      "f": [
+        "IDX:DART"
+      ],
+      "s": "IDX:DART"
+    },
+    {
+      "f": [
+        "IDX:DAYA"
+      ],
+      "s": "IDX:DAYA"
+    },
+    {
+      "f": [
+        "IDX:DEFI"
+      ],
+      "s": "IDX:DEFI"
+    },
+    {
+      "f": [
+        "IDX:DEWA"
+      ],
+      "s": "IDX:DEWA"
+    },
+    {
+      "f": [
+        "IDX:DFAM"
+      ],
+      "s": "IDX:DFAM"
+    },
+    {
+      "f": [
+        "IDX:DGIK"
+      ],
+      "s": "IDX:DGIK"
+    },
+    {
+      "f": [
+        "IDX:DILD"
+      ],
+      "s": "IDX:DILD"
+    },
+    {
+      "f": [
+        "IDX:DKFT"
+      ],
+      "s": "IDX:DKFT"
+    },
+    {
+      "f": [
+        "IDX:DLTA"
+      ],
+      "s": "IDX:DLTA"
+    },
+    {
+      "f": [
+        "IDX:DMAS"
+      ],
+      "s": "IDX:DMAS"
+    },
+    {
+      "f": [
+        "IDX:DNAR"
+      ],
+      "s": "IDX:DNAR"
+    },
+    {
+      "f": [
+        "IDX:DNET"
+      ],
+      "s": "IDX:DNET"
+    },
+    {
+      "f": [
+        "IDX:DOID"
+      ],
+      "s": "IDX:DOID"
+    },
+    {
+      "f": [
+        "IDX:DPNS"
+      ],
+      "s": "IDX:DPNS"
+    },
+    {
+      "f": [
+        "IDX:DPUM"
+      ],
+      "s": "IDX:DPUM"
+    },
+    {
+      "f": [
+        "IDX:DSFI"
+      ],
+      "s": "IDX:DSFI"
+    },
+    {
+      "f": [
+        "IDX:DSNG"
+      ],
+      "s": "IDX:DSNG"
+    },
+    {
+      "f": [
+        "IDX:DSSA"
+      ],
+      "s": "IDX:DSSA"
+    },
+    {
+      "f": [
+        "IDX:DUTI"
+      ],
+      "s": "IDX:DUTI"
+    },
+    {
+      "f": [
+        "IDX:DVLA"
+      ],
+      "s": "IDX:DVLA"
+    },
+    {
+      "f": [
+        "IDX:DWGL"
+      ],
+      "s": "IDX:DWGL"
+    },
+    {
+      "f": [
+        "IDX:DYAN"
+      ],
+      "s": "IDX:DYAN"
+    },
+    {
+      "f": [
+        "IDX:ECII"
+      ],
+      "s": "IDX:ECII"
+    },
+    {
+      "f": [
+        "IDX:EKAD"
+      ],
+      "s": "IDX:EKAD"
+    },
+    {
+      "f": [
+        "IDX:ELSA"
+      ],
+      "s": "IDX:ELSA"
+    },
+    {
+      "f": [
+        "IDX:ELTY"
+      ],
+      "s": "IDX:ELTY"
+    },
+    {
+      "f": [
+        "IDX:EMDE"
+      ],
+      "s": "IDX:EMDE"
+    },
+    {
+      "f": [
+        "IDX:EMTK"
+      ],
+      "s": "IDX:EMTK"
+    },
+    {
+      "f": [
+        "IDX:ENRG"
+      ],
+      "s": "IDX:ENRG"
+    },
+    {
+      "f": [
+        "IDX:EPMT"
+      ],
+      "s": "IDX:EPMT"
+    },
+    {
+      "f": [
+        "IDX:ERAA"
+      ],
+      "s": "IDX:ERAA"
+    },
+    {
+      "f": [
+        "IDX:ERTX"
+      ],
+      "s": "IDX:ERTX"
+    },
+    {
+      "f": [
+        "IDX:ESSA"
+      ],
+      "s": "IDX:ESSA"
+    },
+    {
+      "f": [
+        "IDX:ESTI"
+      ],
+      "s": "IDX:ESTI"
+    },
+    {
+      "f": [
+        "IDX:ETWA"
+      ],
+      "s": "IDX:ETWA"
+    },
+    {
+      "f": [
+        "IDX:EXCL"
+      ],
+      "s": "IDX:EXCL"
+    },
+    {
+      "f": [
+        "IDX:FAST"
+      ],
+      "s": "IDX:FAST"
+    },
+    {
+      "f": [
+        "IDX:FASW"
+      ],
+      "s": "IDX:FASW"
+    },
+    {
+      "f": [
+        "IDX:FILM"
+      ],
+      "s": "IDX:FILM"
+    },
+    {
+      "f": [
+        "IDX:FINN"
+      ],
+      "s": "IDX:FINN"
+    },
+    {
+      "f": [
+        "IDX:FIRE"
+      ],
+      "s": "IDX:FIRE"
+    },
+    {
+      "f": [
+        "IDX:FISH"
+      ],
+      "s": "IDX:FISH"
+    },
+    {
+      "f": [
+        "IDX:FMII"
+      ],
+      "s": "IDX:FMII"
+    },
+    {
+      "f": [
+        "IDX:FORU"
+      ],
+      "s": "IDX:FORU"
+    },
+    {
+      "f": [
+        "IDX:FORZ"
+      ],
+      "s": "IDX:FORZ"
+    },
+    {
+      "f": [
+        "IDX:FPNI"
+      ],
+      "s": "IDX:FPNI"
+    },
+    {
+      "f": [
+        "IDX:FREN"
+      ],
+      "s": "IDX:FREN"
+    },
+    {
+      "f": [
+        "IDX:GAMA"
+      ],
+      "s": "IDX:GAMA"
+    },
+    {
+      "f": [
+        "IDX:GDST"
+      ],
+      "s": "IDX:GDST"
+    },
+    {
+      "f": [
+        "IDX:GDYR"
+      ],
+      "s": "IDX:GDYR"
+    },
+    {
+      "f": [
+        "IDX:GEMA"
+      ],
+      "s": "IDX:GEMA"
+    },
+    {
+      "f": [
+        "IDX:GEMS"
+      ],
+      "s": "IDX:GEMS"
+    },
+    {
+      "f": [
+        "IDX:GGRM"
+      ],
+      "s": "IDX:GGRM"
+    },
+    {
+      "f": [
+        "IDX:GHON"
+      ],
+      "s": "IDX:GHON"
+    },
+    {
+      "f": [
+        "IDX:GIAA"
+      ],
+      "s": "IDX:GIAA"
+    },
+    {
+      "f": [
+        "IDX:GJTL"
+      ],
+      "s": "IDX:GJTL"
+    },
+    {
+      "f": [
+        "IDX:GLOB"
+      ],
+      "s": "IDX:GLOB"
+    },
+    {
+      "f": [
+        "IDX:GMFI"
+      ],
+      "s": "IDX:GMFI"
+    },
+    {
+      "f": [
+        "IDX:GMTD"
+      ],
+      "s": "IDX:GMTD"
+    },
+    {
+      "f": [
+        "IDX:GOLD"
+      ],
+      "s": "IDX:GOLD"
+    },
+    {
+      "f": [
+        "IDX:GOLL"
+      ],
+      "s": "IDX:GOLL"
+    },
+    {
+      "f": [
+        "IDX:GPRA"
+      ],
+      "s": "IDX:GPRA"
+    },
+    {
+      "f": [
+        "IDX:GREN"
+      ],
+      "s": "IDX:GREN"
+    },
+    {
+      "f": [
+        "IDX:GSMF"
+      ],
+      "s": "IDX:GSMF"
+    },
+    {
+      "f": [
+        "IDX:GTBO"
+      ],
+      "s": "IDX:GTBO"
+    },
+    {
+      "f": [
+        "IDX:GWSA"
+      ],
+      "s": "IDX:GWSA"
+    },
+    {
+      "f": [
+        "IDX:GZCO"
+      ],
+      "s": "IDX:GZCO"
+    },
+    {
+      "f": [
+        "IDX:HADE"
+      ],
+      "s": "IDX:HADE"
+    },
+    {
+      "f": [
+        "IDX:HDFA"
+      ],
+      "s": "IDX:HDFA"
+    },
+    {
+      "f": [
+        "IDX:HDTX"
+      ],
+      "s": "IDX:HDTX"
+    },
+    {
+      "f": [
+        "IDX:HEAL"
+      ],
+      "s": "IDX:HEAL"
+    },
+    {
+      "f": [
+        "IDX:HELI"
+      ],
+      "s": "IDX:HELI"
+    },
+    {
+      "f": [
+        "IDX:HERO"
+      ],
+      "s": "IDX:HERO"
+    },
+    {
+      "f": [
+        "IDX:HEXA"
+      ],
+      "s": "IDX:HEXA"
+    },
+    {
+      "f": [
+        "IDX:HITS"
+      ],
+      "s": "IDX:HITS"
+    },
+    {
+      "f": [
+        "IDX:HMSP"
+      ],
+      "s": "IDX:HMSP"
+    },
+    {
+      "f": [
+        "IDX:HOKI"
+      ],
+      "s": "IDX:HOKI"
+    },
+    {
+      "f": [
+        "IDX:HOME"
+      ],
+      "s": "IDX:HOME"
+    },
+    {
+      "f": [
+        "IDX:HOTL"
+      ],
+      "s": "IDX:HOTL"
+    },
+    {
+      "f": [
+        "IDX:HRTA"
+      ],
+      "s": "IDX:HRTA"
+    },
+    {
+      "f": [
+        "IDX:HRUM"
+      ],
+      "s": "IDX:HRUM"
+    },
+    {
+      "f": [
+        "IDX:IATA"
+      ],
+      "s": "IDX:IATA"
+    },
+    {
+      "f": [
+        "IDX:IBFN"
+      ],
+      "s": "IDX:IBFN"
+    },
+    {
+      "f": [
+        "IDX:IBST"
+      ],
+      "s": "IDX:IBST"
+    },
+    {
+      "f": [
+        "IDX:ICBP"
+      ],
+      "s": "IDX:ICBP"
+    },
+    {
+      "f": [
+        "IDX:ICON"
+      ],
+      "s": "IDX:ICON"
+    },
+    {
+      "f": [
+        "IDX:IDPR"
+      ],
+      "s": "IDX:IDPR"
+    },
+    {
+      "f": [
+        "IDX:IGAR"
+      ],
+      "s": "IDX:IGAR"
+    },
+    {
+      "f": [
+        "IDX:IIKP"
+      ],
+      "s": "IDX:IIKP"
+    },
+    {
+      "f": [
+        "IDX:IKAI"
+      ],
+      "s": "IDX:IKAI"
+    },
+    {
+      "f": [
+        "IDX:IKBI"
+      ],
+      "s": "IDX:IKBI"
+    },
+    {
+      "f": [
+        "IDX:IMAS"
+      ],
+      "s": "IDX:IMAS"
+    },
+    {
+      "f": [
+        "IDX:IMJS"
+      ],
+      "s": "IDX:IMJS"
+    },
+    {
+      "f": [
+        "IDX:IMPC"
+      ],
+      "s": "IDX:IMPC"
+    },
+    {
+      "f": [
+        "IDX:INAF"
+      ],
+      "s": "IDX:INAF"
+    },
+    {
+      "f": [
+        "IDX:INAI"
+      ],
+      "s": "IDX:INAI"
+    },
+    {
+      "f": [
+        "IDX:INCF"
+      ],
+      "s": "IDX:INCF"
+    },
+    {
+      "f": [
+        "IDX:INCI"
+      ],
+      "s": "IDX:INCI"
+    },
+    {
+      "f": [
+        "IDX:INCO"
+      ],
+      "s": "IDX:INCO"
+    },
+    {
+      "f": [
+        "IDX:INDF"
+      ],
+      "s": "IDX:INDF"
+    },
+    {
+      "f": [
+        "IDX:INDR"
+      ],
+      "s": "IDX:INDR"
+    },
+    {
+      "f": [
+        "IDX:INDS"
+      ],
+      "s": "IDX:INDS"
+    },
+    {
+      "f": [
+        "IDX:INDX"
+      ],
+      "s": "IDX:INDX"
+    },
+    {
+      "f": [
+        "IDX:INDY"
+      ],
+      "s": "IDX:INDY"
+    },
+    {
+      "f": [
+        "IDX:INKP"
+      ],
+      "s": "IDX:INKP"
+    },
+    {
+      "f": [
+        "IDX:INPC"
+      ],
+      "s": "IDX:INPC"
+    },
+    {
+      "f": [
+        "IDX:INPP"
+      ],
+      "s": "IDX:INPP"
+    },
+    {
+      "f": [
+        "IDX:INPS"
+      ],
+      "s": "IDX:INPS"
+    },
+    {
+      "f": [
+        "IDX:INRU"
+      ],
+      "s": "IDX:INRU"
+    },
+    {
+      "f": [
+        "IDX:INTA"
+      ],
+      "s": "IDX:INTA"
+    },
+    {
+      "f": [
+        "IDX:INTD"
+      ],
+      "s": "IDX:INTD"
+    },
+    {
+      "f": [
+        "IDX:INTP"
+      ],
+      "s": "IDX:INTP"
+    },
+    {
+      "f": [
+        "IDX:INVS"
+      ],
+      "s": "IDX:INVS"
+    },
+    {
+      "f": [
+        "IDX:IPCC"
+      ],
+      "s": "IDX:IPCC"
+    },
+    {
+      "f": [
+        "IDX:IPCM"
+      ],
+      "s": "IDX:IPCM"
+    },
+    {
+      "f": [
+        "IDX:IPOL"
+      ],
+      "s": "IDX:IPOL"
+    },
+    {
+      "f": [
+        "IDX:ISAT"
+      ],
+      "s": "IDX:ISAT"
+    },
+    {
+      "f": [
+        "IDX:ISSP"
+      ],
+      "s": "IDX:ISSP"
+    },
+    {
+      "f": [
+        "IDX:ITMA"
+      ],
+      "s": "IDX:ITMA"
+    },
+    {
+      "f": [
+        "IDX:ITMG"
+      ],
+      "s": "IDX:ITMG"
+    },
+    {
+      "f": [
+        "IDX:ITTG"
+      ],
+      "s": "IDX:ITTG"
+    },
+    {
+      "f": [
+        "IDX:JAWA"
+      ],
+      "s": "IDX:JAWA"
+    },
+    {
+      "f": [
+        "IDX:JECC"
+      ],
+      "s": "IDX:JECC"
+    },
+    {
+      "f": [
+        "IDX:JGLE"
+      ],
+      "s": "IDX:JGLE"
+    },
+    {
+      "f": [
+        "IDX:JIHD"
+      ],
+      "s": "IDX:JIHD"
+    },
+    {
+      "f": [
+        "IDX:JKON"
+      ],
+      "s": "IDX:JKON"
+    },
+    {
+      "f": [
+        "IDX:JKSW"
+      ],
+      "s": "IDX:JKSW"
+    },
+    {
+      "f": [
+        "IDX:JMAS"
+      ],
+      "s": "IDX:JMAS"
+    },
+    {
+      "f": [
+        "IDX:JPFA"
+      ],
+      "s": "IDX:JPFA"
+    },
+    {
+      "f": [
+        "IDX:JPRS"
+      ],
+      "s": "IDX:JPRS"
+    },
+    {
+      "f": [
+        "IDX:JRPT"
+      ],
+      "s": "IDX:JRPT"
+    },
+    {
+      "f": [
+        "IDX:JSKY"
+      ],
+      "s": "IDX:JSKY"
+    },
+    {
+      "f": [
+        "IDX:JSMR"
+      ],
+      "s": "IDX:JSMR"
+    },
+    {
+      "f": [
+        "IDX:JSPT"
+      ],
+      "s": "IDX:JSPT"
+    },
+    {
+      "f": [
+        "IDX:JTPE"
+      ],
+      "s": "IDX:JTPE"
+    },
+    {
+      "f": [
+        "IDX:KAEF"
+      ],
+      "s": "IDX:KAEF"
+    },
+    {
+      "f": [
+        "IDX:KARW"
+      ],
+      "s": "IDX:KARW"
+    },
+    {
+      "f": [
+        "IDX:KBLI"
+      ],
+      "s": "IDX:KBLI"
+    },
+    {
+      "f": [
+        "IDX:KBLM"
+      ],
+      "s": "IDX:KBLM"
+    },
+    {
+      "f": [
+        "IDX:KBLV"
+      ],
+      "s": "IDX:KBLV"
+    },
+    {
+      "f": [
+        "IDX:KBRI"
+      ],
+      "s": "IDX:KBRI"
+    },
+    {
+      "f": [
+        "IDX:KDSI"
+      ],
+      "s": "IDX:KDSI"
+    },
+    {
+      "f": [
+        "IDX:KIAS"
+      ],
+      "s": "IDX:KIAS"
+    },
+    {
+      "f": [
+        "IDX:KICI"
+      ],
+      "s": "IDX:KICI"
+    },
+    {
+      "f": [
+        "IDX:KIJA"
+      ],
+      "s": "IDX:KIJA"
+    },
+    {
+      "f": [
+        "IDX:KINO"
+      ],
+      "s": "IDX:KINO"
+    },
+    {
+      "f": [
+        "IDX:KIOS"
+      ],
+      "s": "IDX:KIOS"
+    },
+    {
+      "f": [
+        "IDX:KKGI"
+      ],
+      "s": "IDX:KKGI"
+    },
+    {
+      "f": [
+        "IDX:KLBF"
+      ],
+      "s": "IDX:KLBF"
+    },
+    {
+      "f": [
+        "IDX:KMTR"
+      ],
+      "s": "IDX:KMTR"
+    },
+    {
+      "f": [
+        "IDX:KOBX"
+      ],
+      "s": "IDX:KOBX"
+    },
+    {
+      "f": [
+        "IDX:KOIN"
+      ],
+      "s": "IDX:KOIN"
+    },
+    {
+      "f": [
+        "IDX:KONI"
+      ],
+      "s": "IDX:KONI"
+    },
+    {
+      "f": [
+        "IDX:KOPI"
+      ],
+      "s": "IDX:KOPI"
+    },
+    {
+      "f": [
+        "IDX:KPAL"
+      ],
+      "s": "IDX:KPAL"
+    },
+    {
+      "f": [
+        "IDX:KPIG"
+      ],
+      "s": "IDX:KPIG"
+    },
+    {
+      "f": [
+        "IDX:KRAH"
+      ],
+      "s": "IDX:KRAH"
+    },
+    {
+      "f": [
+        "IDX:KRAS"
+      ],
+      "s": "IDX:KRAS"
+    },
+    {
+      "f": [
+        "IDX:KREN"
+      ],
+      "s": "IDX:KREN"
+    },
+    {
+      "f": [
+        "IDX:LAMI"
+      ],
+      "s": "IDX:LAMI"
+    },
+    {
+      "f": [
+        "IDX:LAND"
+      ],
+      "s": "IDX:LAND"
+    },
+    {
+      "f": [
+        "IDX:LAPD"
+      ],
+      "s": "IDX:LAPD"
+    },
+    {
+      "f": [
+        "IDX:LCGP"
+      ],
+      "s": "IDX:LCGP"
+    },
+    {
+      "f": [
+        "IDX:LCKM"
+      ],
+      "s": "IDX:LCKM"
+    },
+    {
+      "f": [
+        "IDX:LEAD"
+      ],
+      "s": "IDX:LEAD"
+    },
+    {
+      "f": [
+        "IDX:LINK"
+      ],
+      "s": "IDX:LINK"
+    },
+    {
+      "f": [
+        "IDX:LION"
+      ],
+      "s": "IDX:LION"
+    },
+    {
+      "f": [
+        "IDX:LMAS"
+      ],
+      "s": "IDX:LMAS"
+    },
+    {
+      "f": [
+        "IDX:LMPI"
+      ],
+      "s": "IDX:LMPI"
+    },
+    {
+      "f": [
+        "IDX:LMSH"
+      ],
+      "s": "IDX:LMSH"
+    },
+    {
+      "f": [
+        "IDX:LPCK"
+      ],
+      "s": "IDX:LPCK"
+    },
+    {
+      "f": [
+        "IDX:LPGI"
+      ],
+      "s": "IDX:LPGI"
+    },
+    {
+      "f": [
+        "IDX:LPIN"
+      ],
+      "s": "IDX:LPIN"
+    },
+    {
+      "f": [
+        "IDX:LPKR"
+      ],
+      "s": "IDX:LPKR"
+    },
+    {
+      "f": [
+        "IDX:LPLI"
+      ],
+      "s": "IDX:LPLI"
+    },
+    {
+      "f": [
+        "IDX:LPPF"
+      ],
+      "s": "IDX:LPPF"
+    },
+    {
+      "f": [
+        "IDX:LPPS"
+      ],
+      "s": "IDX:LPPS"
+    },
+    {
+      "f": [
+        "IDX:LRNA"
+      ],
+      "s": "IDX:LRNA"
+    },
+    {
+      "f": [
+        "IDX:LSIP"
+      ],
+      "s": "IDX:LSIP"
+    },
+    {
+      "f": [
+        "IDX:LTLS"
+      ],
+      "s": "IDX:LTLS"
+    },
+    {
+      "f": [
+        "IDX:MABA"
+      ],
+      "s": "IDX:MABA"
+    },
+    {
+      "f": [
+        "IDX:MAGP"
+      ],
+      "s": "IDX:MAGP"
+    },
+    {
+      "f": [
+        "IDX:MAIN"
+      ],
+      "s": "IDX:MAIN"
+    },
+    {
+      "f": [
+        "IDX:MAMI"
+      ],
+      "s": "IDX:MAMI"
+    },
+    {
+      "f": [
+        "IDX:MAMIP"
+      ],
+      "s": "IDX:MAMIP"
+    },
+    {
+      "f": [
+        "IDX:MAPA"
+      ],
+      "s": "IDX:MAPA"
+    },
+    {
+      "f": [
+        "IDX:MAPB"
+      ],
+      "s": "IDX:MAPB"
+    },
+    {
+      "f": [
+        "IDX:MAPI"
+      ],
+      "s": "IDX:MAPI"
+    },
+    {
+      "f": [
+        "IDX:MARI"
+      ],
+      "s": "IDX:MARI"
+    },
+    {
+      "f": [
+        "IDX:MARK"
+      ],
+      "s": "IDX:MARK"
+    },
+    {
+      "f": [
+        "IDX:MASA"
+      ],
+      "s": "IDX:MASA"
+    },
+    {
+      "f": [
+        "IDX:MAYA"
+      ],
+      "s": "IDX:MAYA"
+    },
+    {
+      "f": [
+        "IDX:MBAP"
+      ],
+      "s": "IDX:MBAP"
+    },
+    {
+      "f": [
+        "IDX:MBSS"
+      ],
+      "s": "IDX:MBSS"
+    },
+    {
+      "f": [
+        "IDX:MBTO"
+      ],
+      "s": "IDX:MBTO"
+    },
+    {
+      "f": [
+        "IDX:MCAS"
+      ],
+      "s": "IDX:MCAS"
+    },
+    {
+      "f": [
+        "IDX:MCOR"
+      ],
+      "s": "IDX:MCOR"
+    },
+    {
+      "f": [
+        "IDX:MDIA"
+      ],
+      "s": "IDX:MDIA"
+    },
+    {
+      "f": [
+        "IDX:MDKA"
+      ],
+      "s": "IDX:MDKA"
+    },
+    {
+      "f": [
+        "IDX:MDKI"
+      ],
+      "s": "IDX:MDKI"
+    },
+    {
+      "f": [
+        "IDX:MDLN"
+      ],
+      "s": "IDX:MDLN"
+    },
+    {
+      "f": [
+        "IDX:MDRN"
+      ],
+      "s": "IDX:MDRN"
+    },
+    {
+      "f": [
+        "IDX:MEDC"
+      ],
+      "s": "IDX:MEDC"
+    },
+    {
+      "f": [
+        "IDX:MEGA"
+      ],
+      "s": "IDX:MEGA"
+    },
+    {
+      "f": [
+        "IDX:MERK"
+      ],
+      "s": "IDX:MERK"
+    },
+    {
+      "f": [
+        "IDX:META"
+      ],
+      "s": "IDX:META"
+    },
+    {
+      "f": [
+        "IDX:MFIN"
+      ],
+      "s": "IDX:MFIN"
+    },
+    {
+      "f": [
+        "IDX:MFMI"
+      ],
+      "s": "IDX:MFMI"
+    },
+    {
+      "f": [
+        "IDX:MGNA"
+      ],
+      "s": "IDX:MGNA"
+    },
+    {
+      "f": [
+        "IDX:MGRO"
+      ],
+      "s": "IDX:MGRO"
+    },
+    {
+      "f": [
+        "IDX:MICE"
+      ],
+      "s": "IDX:MICE"
+    },
+    {
+      "f": [
+        "IDX:MIDI"
+      ],
+      "s": "IDX:MIDI"
+    },
+    {
+      "f": [
+        "IDX:MIKA"
+      ],
+      "s": "IDX:MIKA"
+    },
+    {
+      "f": [
+        "IDX:MINA"
+      ],
+      "s": "IDX:MINA"
+    },
+    {
+      "f": [
+        "IDX:MIRA"
+      ],
+      "s": "IDX:MIRA"
+    },
+    {
+      "f": [
+        "IDX:MITI"
+      ],
+      "s": "IDX:MITI"
+    },
+    {
+      "f": [
+        "IDX:MKNT"
+      ],
+      "s": "IDX:MKNT"
+    },
+    {
+      "f": [
+        "IDX:MKPI"
+      ],
+      "s": "IDX:MKPI"
+    },
+    {
+      "f": [
+        "IDX:MLBI"
+      ],
+      "s": "IDX:MLBI"
+    },
+    {
+      "f": [
+        "IDX:MLIA"
+      ],
+      "s": "IDX:MLIA"
+    },
+    {
+      "f": [
+        "IDX:MLPL"
+      ],
+      "s": "IDX:MLPL"
+    },
+    {
+      "f": [
+        "IDX:MLPT"
+      ],
+      "s": "IDX:MLPT"
+    },
+    {
+      "f": [
+        "IDX:MMLP"
+      ],
+      "s": "IDX:MMLP"
+    },
+    {
+      "f": [
+        "IDX:MNCN"
+      ],
+      "s": "IDX:MNCN"
+    },
+    {
+      "f": [
+        "IDX:MPMX"
+      ],
+      "s": "IDX:MPMX"
+    },
+    {
+      "f": [
+        "IDX:MPOW"
+      ],
+      "s": "IDX:MPOW"
+    },
+    {
+      "f": [
+        "IDX:MPPA"
+      ],
+      "s": "IDX:MPPA"
+    },
+    {
+      "f": [
+        "IDX:MRAT"
+      ],
+      "s": "IDX:MRAT"
+    },
+    {
+      "f": [
+        "IDX:MREI"
+      ],
+      "s": "IDX:MREI"
+    },
+    {
+      "f": [
+        "IDX:MSIN"
+      ],
+      "s": "IDX:MSIN"
+    },
+    {
+      "f": [
+        "IDX:MSKY"
+      ],
+      "s": "IDX:MSKY"
+    },
+    {
+      "f": [
+        "IDX:MTDL"
+      ],
+      "s": "IDX:MTDL"
+    },
+    {
+      "f": [
+        "IDX:MTFN"
+      ],
+      "s": "IDX:MTFN"
+    },
+    {
+      "f": [
+        "IDX:MTLA"
+      ],
+      "s": "IDX:MTLA"
+    },
+    {
+      "f": [
+        "IDX:MTRA"
+      ],
+      "s": "IDX:MTRA"
+    },
+    {
+      "f": [
+        "IDX:MTSM"
+      ],
+      "s": "IDX:MTSM"
+    },
+    {
+      "f": [
+        "IDX:MTWI"
+      ],
+      "s": "IDX:MTWI"
+    },
+    {
+      "f": [
+        "IDX:MYOH"
+      ],
+      "s": "IDX:MYOH"
+    },
+    {
+      "f": [
+        "IDX:MYOR"
+      ],
+      "s": "IDX:MYOR"
+    },
+    {
+      "f": [
+        "IDX:MYRX"
+      ],
+      "s": "IDX:MYRX"
+    },
+    {
+      "f": [
+        "IDX:MYRXP"
+      ],
+      "s": "IDX:MYRXP"
+    },
+    {
+      "f": [
+        "IDX:MYTX"
+      ],
+      "s": "IDX:MYTX"
+    },
+    {
+      "f": [
+        "IDX:NAGA"
+      ],
+      "s": "IDX:NAGA"
+    },
+    {
+      "f": [
+        "IDX:NASA"
+      ],
+      "s": "IDX:NASA"
+    },
+    {
+      "f": [
+        "IDX:NELY"
+      ],
+      "s": "IDX:NELY"
+    },
+    {
+      "f": [
+        "IDX:NFCX"
+      ],
+      "s": "IDX:NFCX"
+    },
+    {
+      "f": [
+        "IDX:NICK"
+      ],
+      "s": "IDX:NICK"
+    },
+    {
+      "f": [
+        "IDX:NIKL"
+      ],
+      "s": "IDX:NIKL"
+    },
+    {
+      "f": [
+        "IDX:NIPS"
+      ],
+      "s": "IDX:NIPS"
+    },
+    {
+      "f": [
+        "IDX:NIRO"
+      ],
+      "s": "IDX:NIRO"
+    },
+    {
+      "f": [
+        "IDX:NISP"
+      ],
+      "s": "IDX:NISP"
+    },
+    {
+      "f": [
+        "IDX:NOBU"
+      ],
+      "s": "IDX:NOBU"
+    },
+    {
+      "f": [
+        "IDX:NRCA"
+      ],
+      "s": "IDX:NRCA"
+    },
+    {
+      "f": [
+        "IDX:NUSA"
+      ],
+      "s": "IDX:NUSA"
+    },
+    {
+      "f": [
+        "IDX:OASA"
+      ],
+      "s": "IDX:OASA"
+    },
+    {
+      "f": [
+        "IDX:OCAP"
+      ],
+      "s": "IDX:OCAP"
+    },
+    {
+      "f": [
+        "IDX:OKAS"
+      ],
+      "s": "IDX:OKAS"
+    },
+    {
+      "f": [
+        "IDX:OMRE"
+      ],
+      "s": "IDX:OMRE"
+    },
+    {
+      "f": [
+        "IDX:PADI"
+      ],
+      "s": "IDX:PADI"
+    },
+    {
+      "f": [
+        "IDX:PALM"
+      ],
+      "s": "IDX:PALM"
+    },
+    {
+      "f": [
+        "IDX:PANR"
+      ],
+      "s": "IDX:PANR"
+    },
+    {
+      "f": [
+        "IDX:PANS"
+      ],
+      "s": "IDX:PANS"
+    },
+    {
+      "f": [
+        "IDX:PBID"
+      ],
+      "s": "IDX:PBID"
+    },
+    {
+      "f": [
+        "IDX:PBRX"
+      ],
+      "s": "IDX:PBRX"
+    },
+    {
+      "f": [
+        "IDX:PBSA"
+      ],
+      "s": "IDX:PBSA"
+    },
+    {
+      "f": [
+        "IDX:PCAR"
+      ],
+      "s": "IDX:PCAR"
+    },
+    {
+      "f": [
+        "IDX:PDES"
+      ],
+      "s": "IDX:PDES"
+    },
+    {
+      "f": [
+        "IDX:PEGE"
+      ],
+      "s": "IDX:PEGE"
+    },
+    {
+      "f": [
+        "IDX:PGAS"
+      ],
+      "s": "IDX:PGAS"
+    },
+    {
+      "f": [
+        "IDX:PGLI"
+      ],
+      "s": "IDX:PGLI"
+    },
+    {
+      "f": [
+        "IDX:PICO"
+      ],
+      "s": "IDX:PICO"
+    },
+    {
+      "f": [
+        "IDX:PJAA"
+      ],
+      "s": "IDX:PJAA"
+    },
+    {
+      "f": [
+        "IDX:PKPK"
+      ],
+      "s": "IDX:PKPK"
+    },
+    {
+      "f": [
+        "IDX:PLAS"
+      ],
+      "s": "IDX:PLAS"
+    },
+    {
+      "f": [
+        "IDX:PLIN"
+      ],
+      "s": "IDX:PLIN"
+    },
+    {
+      "f": [
+        "IDX:PNBN"
+      ],
+      "s": "IDX:PNBN"
+    },
+    {
+      "f": [
+        "IDX:PNBS"
+      ],
+      "s": "IDX:PNBS"
+    },
+    {
+      "f": [
+        "IDX:PNIN"
+      ],
+      "s": "IDX:PNIN"
+    },
+    {
+      "f": [
+        "IDX:PNLF"
+      ],
+      "s": "IDX:PNLF"
+    },
+    {
+      "f": [
+        "IDX:PNSE"
+      ],
+      "s": "IDX:PNSE"
+    },
+    {
+      "f": [
+        "IDX:POLL"
+      ],
+      "s": "IDX:POLL"
+    },
+    {
+      "f": [
+        "IDX:POLY"
+      ],
+      "s": "IDX:POLY"
+    },
+    {
+      "f": [
+        "IDX:POOL"
+      ],
+      "s": "IDX:POOL"
+    },
+    {
+      "f": [
+        "IDX:PORT"
+      ],
+      "s": "IDX:PORT"
+    },
+    {
+      "f": [
+        "IDX:POWR"
+      ],
+      "s": "IDX:POWR"
+    },
+    {
+      "f": [
+        "IDX:PPRE"
+      ],
+      "s": "IDX:PPRE"
+    },
+    {
+      "f": [
+        "IDX:PPRO"
+      ],
+      "s": "IDX:PPRO"
+    },
+    {
+      "f": [
+        "IDX:PRAS"
+      ],
+      "s": "IDX:PRAS"
+    },
+    {
+      "f": [
+        "IDX:PRDA"
+      ],
+      "s": "IDX:PRDA"
+    },
+    {
+      "f": [
+        "IDX:PRIM"
+      ],
+      "s": "IDX:PRIM"
+    },
+    {
+      "f": [
+        "IDX:PSAB"
+      ],
+      "s": "IDX:PSAB"
+    },
+    {
+      "f": [
+        "IDX:PSDN"
+      ],
+      "s": "IDX:PSDN"
+    },
+    {
+      "f": [
+        "IDX:PSKT"
+      ],
+      "s": "IDX:PSKT"
+    },
+    {
+      "f": [
+        "IDX:PSSI"
+      ],
+      "s": "IDX:PSSI"
+    },
+    {
+      "f": [
+        "IDX:PTBA"
+      ],
+      "s": "IDX:PTBA"
+    },
+    {
+      "f": [
+        "IDX:PTIS"
+      ],
+      "s": "IDX:PTIS"
+    },
+    {
+      "f": [
+        "IDX:PTPP"
+      ],
+      "s": "IDX:PTPP"
+    },
+    {
+      "f": [
+        "IDX:PTRO"
+      ],
+      "s": "IDX:PTRO"
+    },
+    {
+      "f": [
+        "IDX:PTSN"
+      ],
+      "s": "IDX:PTSN"
+    },
+    {
+      "f": [
+        "IDX:PTSP"
+      ],
+      "s": "IDX:PTSP"
+    },
+    {
+      "f": [
+        "IDX:PUDP"
+      ],
+      "s": "IDX:PUDP"
+    },
+    {
+      "f": [
+        "IDX:PWON"
+      ],
+      "s": "IDX:PWON"
+    },
+    {
+      "f": [
+        "IDX:PYFA"
+      ],
+      "s": "IDX:PYFA"
+    },
+    {
+      "f": [
+        "IDX:PZZA"
+      ],
+      "s": "IDX:PZZA"
+    },
+    {
+      "f": [
+        "IDX:R-LQ45X"
+      ],
+      "s": "IDX:R-LQ45X"
+    },
+    {
+      "f": [
+        "IDX:RAJA"
+      ],
+      "s": "IDX:RAJA"
+    },
+    {
+      "f": [
+        "IDX:RALS"
+      ],
+      "s": "IDX:RALS"
+    },
+    {
+      "f": [
+        "IDX:RANC"
+      ],
+      "s": "IDX:RANC"
+    },
+    {
+      "f": [
+        "IDX:RBMS"
+      ],
+      "s": "IDX:RBMS"
+    },
+    {
+      "f": [
+        "IDX:RDTX"
+      ],
+      "s": "IDX:RDTX"
+    },
+    {
+      "f": [
+        "IDX:RELI"
+      ],
+      "s": "IDX:RELI"
+    },
+    {
+      "f": [
+        "IDX:RICY"
+      ],
+      "s": "IDX:RICY"
+    },
+    {
+      "f": [
+        "IDX:RIGS"
+      ],
+      "s": "IDX:RIGS"
+    },
+    {
+      "f": [
+        "IDX:RIMO"
+      ],
+      "s": "IDX:RIMO"
+    },
+    {
+      "f": [
+        "IDX:RISE"
+      ],
+      "s": "IDX:RISE"
+    },
+    {
+      "f": [
+        "IDX:RMBA"
+      ],
+      "s": "IDX:RMBA"
+    },
+    {
+      "f": [
+        "IDX:RODA"
+      ],
+      "s": "IDX:RODA"
+    },
+    {
+      "f": [
+        "IDX:ROTI"
+      ],
+      "s": "IDX:ROTI"
+    },
+    {
+      "f": [
+        "IDX:RUIS"
+      ],
+      "s": "IDX:RUIS"
+    },
+    {
+      "f": [
+        "IDX:SAFE"
+      ],
+      "s": "IDX:SAFE"
+    },
+    {
+      "f": [
+        "IDX:SAME"
+      ],
+      "s": "IDX:SAME"
+    },
+    {
+      "f": [
+        "IDX:SCBD"
+      ],
+      "s": "IDX:SCBD"
+    },
+    {
+      "f": [
+        "IDX:SCCO"
+      ],
+      "s": "IDX:SCCO"
+    },
+    {
+      "f": [
+        "IDX:SCMA"
+      ],
+      "s": "IDX:SCMA"
+    },
+    {
+      "f": [
+        "IDX:SCPI"
+      ],
+      "s": "IDX:SCPI"
+    },
+    {
+      "f": [
+        "IDX:SDMU"
+      ],
+      "s": "IDX:SDMU"
+    },
+    {
+      "f": [
+        "IDX:SDPC"
+      ],
+      "s": "IDX:SDPC"
+    },
+    {
+      "f": [
+        "IDX:SDRA"
+      ],
+      "s": "IDX:SDRA"
+    },
+    {
+      "f": [
+        "IDX:SGRO"
+      ],
+      "s": "IDX:SGRO"
+    },
+    {
+      "f": [
+        "IDX:SHID"
+      ],
+      "s": "IDX:SHID"
+    },
+    {
+      "f": [
+        "IDX:SHIP"
+      ],
+      "s": "IDX:SHIP"
+    },
+    {
+      "f": [
+        "IDX:SIAP"
+      ],
+      "s": "IDX:SIAP"
+    },
+    {
+      "f": [
+        "IDX:SIDO"
+      ],
+      "s": "IDX:SIDO"
+    },
+    {
+      "f": [
+        "IDX:SILO"
+      ],
+      "s": "IDX:SILO"
+    },
+    {
+      "f": [
+        "IDX:SIMA"
+      ],
+      "s": "IDX:SIMA"
+    },
+    {
+      "f": [
+        "IDX:SIMP"
+      ],
+      "s": "IDX:SIMP"
+    },
+    {
+      "f": [
+        "IDX:SIPD"
+      ],
+      "s": "IDX:SIPD"
+    },
+    {
+      "f": [
+        "IDX:SKBM"
+      ],
+      "s": "IDX:SKBM"
+    },
+    {
+      "f": [
+        "IDX:SKLT"
+      ],
+      "s": "IDX:SKLT"
+    },
+    {
+      "f": [
+        "IDX:SKYB"
+      ],
+      "s": "IDX:SKYB"
+    },
+    {
+      "f": [
+        "IDX:SMAR"
+      ],
+      "s": "IDX:SMAR"
+    },
+    {
+      "f": [
+        "IDX:SMBR"
+      ],
+      "s": "IDX:SMBR"
+    },
+    {
+      "f": [
+        "IDX:SMCB"
+      ],
+      "s": "IDX:SMCB"
+    },
+    {
+      "f": [
+        "IDX:SMDM"
+      ],
+      "s": "IDX:SMDM"
+    },
+    {
+      "f": [
+        "IDX:SMDR"
+      ],
+      "s": "IDX:SMDR"
+    },
+    {
+      "f": [
+        "IDX:SMGR"
+      ],
+      "s": "IDX:SMGR"
+    },
+    {
+      "f": [
+        "IDX:SMMA"
+      ],
+      "s": "IDX:SMMA"
+    },
+    {
+      "f": [
+        "IDX:SMMT"
+      ],
+      "s": "IDX:SMMT"
+    },
+    {
+      "f": [
+        "IDX:SMRA"
+      ],
+      "s": "IDX:SMRA"
+    },
+    {
+      "f": [
+        "IDX:SMRU"
+      ],
+      "s": "IDX:SMRU"
+    },
+    {
+      "f": [
+        "IDX:SMSM"
+      ],
+      "s": "IDX:SMSM"
+    },
+    {
+      "f": [
+        "IDX:SOCI"
+      ],
+      "s": "IDX:SOCI"
+    },
+    {
+      "f": [
+        "IDX:SONA"
+      ],
+      "s": "IDX:SONA"
+    },
+    {
+      "f": [
+        "IDX:SPMA"
+      ],
+      "s": "IDX:SPMA"
+    },
+    {
+      "f": [
+        "IDX:SPTO"
+      ],
+      "s": "IDX:SPTO"
+    },
+    {
+      "f": [
+        "IDX:SQBB"
+      ],
+      "s": "IDX:SQBB"
+    },
+    {
+      "f": [
+        "IDX:SQBI"
+      ],
+      "s": "IDX:SQBI"
+    },
+    {
+      "f": [
+        "IDX:SQMI"
+      ],
+      "s": "IDX:SQMI"
+    },
+    {
+      "f": [
+        "IDX:SRAJ"
+      ],
+      "s": "IDX:SRAJ"
+    },
+    {
+      "f": [
+        "IDX:SRIL"
+      ],
+      "s": "IDX:SRIL"
+    },
+    {
+      "f": [
+        "IDX:SRSN"
+      ],
+      "s": "IDX:SRSN"
+    },
+    {
+      "f": [
+        "IDX:SRTG"
+      ],
+      "s": "IDX:SRTG"
+    },
+    {
+      "f": [
+        "IDX:SSIA"
+      ],
+      "s": "IDX:SSIA"
+    },
+    {
+      "f": [
+        "IDX:SSMS"
+      ],
+      "s": "IDX:SSMS"
+    },
+    {
+      "f": [
+        "IDX:SSTM"
+      ],
+      "s": "IDX:SSTM"
+    },
+    {
+      "f": [
+        "IDX:STAR"
+      ],
+      "s": "IDX:STAR"
+    },
+    {
+      "f": [
+        "IDX:STTP"
+      ],
+      "s": "IDX:STTP"
+    },
+    {
+      "f": [
+        "IDX:SUGI"
+      ],
+      "s": "IDX:SUGI"
+    },
+    {
+      "f": [
+        "IDX:SULI"
+      ],
+      "s": "IDX:SULI"
+    },
+    {
+      "f": [
+        "IDX:SUPR"
+      ],
+      "s": "IDX:SUPR"
+    },
+    {
+      "f": [
+        "IDX:SWAT"
+      ],
+      "s": "IDX:SWAT"
+    },
+    {
+      "f": [
+        "IDX:TALF"
+      ],
+      "s": "IDX:TALF"
+    },
+    {
+      "f": [
+        "IDX:TAMU"
+      ],
+      "s": "IDX:TAMU"
+    },
+    {
+      "f": [
+        "IDX:TARA"
+      ],
+      "s": "IDX:TARA"
+    },
+    {
+      "f": [
+        "IDX:TAXI"
+      ],
+      "s": "IDX:TAXI"
+    },
+    {
+      "f": [
+        "IDX:TBIG"
+      ],
+      "s": "IDX:TBIG"
+    },
+    {
+      "f": [
+        "IDX:TBLA"
+      ],
+      "s": "IDX:TBLA"
+    },
+    {
+      "f": [
+        "IDX:TBMS"
+      ],
+      "s": "IDX:TBMS"
+    },
+    {
+      "f": [
+        "IDX:TCID"
+      ],
+      "s": "IDX:TCID"
+    },
+    {
+      "f": [
+        "IDX:TCPI"
+      ],
+      "s": "IDX:TCPI"
+    },
+    {
+      "f": [
+        "IDX:TDPM"
+      ],
+      "s": "IDX:TDPM"
+    },
+    {
+      "f": [
+        "IDX:TELE"
+      ],
+      "s": "IDX:TELE"
+    },
+    {
+      "f": [
+        "IDX:TFCO"
+      ],
+      "s": "IDX:TFCO"
+    },
+    {
+      "f": [
+        "IDX:TGKA"
+      ],
+      "s": "IDX:TGKA"
+    },
+    {
+      "f": [
+        "IDX:TGRA"
+      ],
+      "s": "IDX:TGRA"
+    },
+    {
+      "f": [
+        "IDX:TIFA"
+      ],
+      "s": "IDX:TIFA"
+    },
+    {
+      "f": [
+        "IDX:TINS"
+      ],
+      "s": "IDX:TINS"
+    },
+    {
+      "f": [
+        "IDX:TIRA"
+      ],
+      "s": "IDX:TIRA"
+    },
+    {
+      "f": [
+        "IDX:TIRT"
+      ],
+      "s": "IDX:TIRT"
+    },
+    {
+      "f": [
+        "IDX:TKGA"
+      ],
+      "s": "IDX:TKGA"
+    },
+    {
+      "f": [
+        "IDX:TKIM"
+      ],
+      "s": "IDX:TKIM"
+    },
+    {
+      "f": [
+        "IDX:TLKM"
+      ],
+      "s": "IDX:TLKM"
+    },
+    {
+      "f": [
+        "IDX:TMAS"
+      ],
+      "s": "IDX:TMAS"
+    },
+    {
+      "f": [
+        "IDX:TMPI"
+      ],
+      "s": "IDX:TMPI"
+    },
+    {
+      "f": [
+        "IDX:TMPO"
+      ],
+      "s": "IDX:TMPO"
+    },
+    {
+      "f": [
+        "IDX:TNCA"
+      ],
+      "s": "IDX:TNCA"
+    },
+    {
+      "f": [
+        "IDX:TOBA"
+      ],
+      "s": "IDX:TOBA"
+    },
+    {
+      "f": [
+        "IDX:TOPS"
+      ],
+      "s": "IDX:TOPS"
+    },
+    {
+      "f": [
+        "IDX:TOTL"
+      ],
+      "s": "IDX:TOTL"
+    },
+    {
+      "f": [
+        "IDX:TOTO"
+      ],
+      "s": "IDX:TOTO"
+    },
+    {
+      "f": [
+        "IDX:TOWR"
+      ],
+      "s": "IDX:TOWR"
+    },
+    {
+      "f": [
+        "IDX:TPIA"
+      ],
+      "s": "IDX:TPIA"
+    },
+    {
+      "f": [
+        "IDX:TPMA"
+      ],
+      "s": "IDX:TPMA"
+    },
+    {
+      "f": [
+        "IDX:TRAM"
+      ],
+      "s": "IDX:TRAM"
+    },
+    {
+      "f": [
+        "IDX:TRIL"
+      ],
+      "s": "IDX:TRIL"
+    },
+    {
+      "f": [
+        "IDX:TRIM"
+      ],
+      "s": "IDX:TRIM"
+    },
+    {
+      "f": [
+        "IDX:TRIO"
+      ],
+      "s": "IDX:TRIO"
+    },
+    {
+      "f": [
+        "IDX:TRIS"
+      ],
+      "s": "IDX:TRIS"
+    },
+    {
+      "f": [
+        "IDX:TRST"
+      ],
+      "s": "IDX:TRST"
+    },
+    {
+      "f": [
+        "IDX:TRUB"
+      ],
+      "s": "IDX:TRUB"
+    },
+    {
+      "f": [
+        "IDX:TRUK"
+      ],
+      "s": "IDX:TRUK"
+    },
+    {
+      "f": [
+        "IDX:TRUS"
+      ],
+      "s": "IDX:TRUS"
+    },
+    {
+      "f": [
+        "IDX:TSPC"
+      ],
+      "s": "IDX:TSPC"
+    },
+    {
+      "f": [
+        "IDX:TUGU"
+      ],
+      "s": "IDX:TUGU"
+    },
+    {
+      "f": [
+        "IDX:TURI"
+      ],
+      "s": "IDX:TURI"
+    },
+    {
+      "f": [
+        "IDX:ULTJ"
+      ],
+      "s": "IDX:ULTJ"
+    },
+    {
+      "f": [
+        "IDX:UNIC"
+      ],
+      "s": "IDX:UNIC"
+    },
+    {
+      "f": [
+        "IDX:UNIT"
+      ],
+      "s": "IDX:UNIT"
+    },
+    {
+      "f": [
+        "IDX:UNSP"
+      ],
+      "s": "IDX:UNSP"
+    },
+    {
+      "f": [
+        "IDX:UNTR"
+      ],
+      "s": "IDX:UNTR"
+    },
+    {
+      "f": [
+        "IDX:UNVR"
+      ],
+      "s": "IDX:UNVR"
+    },
+    {
+      "f": [
+        "IDX:VICO"
+      ],
+      "s": "IDX:VICO"
+    },
+    {
+      "f": [
+        "IDX:VINS"
+      ],
+      "s": "IDX:VINS"
+    },
+    {
+      "f": [
+        "IDX:VIVA"
+      ],
+      "s": "IDX:VIVA"
+    },
+    {
+      "f": [
+        "IDX:VOKS"
+      ],
+      "s": "IDX:VOKS"
+    },
+    {
+      "f": [
+        "IDX:VRNA"
+      ],
+      "s": "IDX:VRNA"
+    },
+    {
+      "f": [
+        "IDX:WAPO"
+      ],
+      "s": "IDX:WAPO"
+    },
+    {
+      "f": [
+        "IDX:WEGE"
+      ],
+      "s": "IDX:WEGE"
+    },
+    {
+      "f": [
+        "IDX:WEHA"
+      ],
+      "s": "IDX:WEHA"
+    },
+    {
+      "f": [
+        "IDX:WICO"
+      ],
+      "s": "IDX:WICO"
+    },
+    {
+      "f": [
+        "IDX:WIIM"
+      ],
+      "s": "IDX:WIIM"
+    },
+    {
+      "f": [
+        "IDX:WIKA"
+      ],
+      "s": "IDX:WIKA"
+    },
+    {
+      "f": [
+        "IDX:WINS"
+      ],
+      "s": "IDX:WINS"
+    },
+    {
+      "f": [
+        "IDX:WOMF"
+      ],
+      "s": "IDX:WOMF"
+    },
+    {
+      "f": [
+        "IDX:WOOD"
+      ],
+      "s": "IDX:WOOD"
+    },
+    {
+      "f": [
+        "IDX:WSBP"
+      ],
+      "s": "IDX:WSBP"
+    },
+    {
+      "f": [
+        "IDX:WSKT"
+      ],
+      "s": "IDX:WSKT"
+    },
+    {
+      "f": [
+        "IDX:WTON"
+      ],
+      "s": "IDX:WTON"
+    },
+    {
+      "f": [
+        "IDX:XBNI"
+      ],
+      "s": "IDX:XBNI"
+    },
+    {
+      "f": [
+        "IDX:XPDV"
+      ],
+      "s": "IDX:XPDV"
+    },
+    {
+      "f": [
+        "IDX:XPLQ"
+      ],
+      "s": "IDX:XPLQ"
+    },
+    {
+      "f": [
+        "IDX:YPAS"
+      ],
+      "s": "IDX:YPAS"
+    },
+    {
+      "f": [
+        "IDX:YULE"
+      ],
+      "s": "IDX:YULE"
+    },
+    {
+      "f": [
+        "IDX:ZBRA"
+      ],
+      "s": "IDX:ZBRA"
+    },
+    {
+      "f": [
+        "IDX:ZINC"
+      ],
+      "s": "IDX:ZINC"
+    },
+    {
+      "f": [
+        "IDX:IHSG"
+      ],
+      "s": "IDX:IHSG"
+    },
+    {
+      "f": [
+        "IDX:LQ45"
+      ],
+      "s": "IDX:LQ45"
+    },
+    {
+      "f": [
+        "IDX:JII"
+      ],
+      "s": "IDX:JII"
+    },
+    {
+      "f": [
+        "IDX:MBX"
+      ],
+      "s": "IDX:MBX"
+    },
+    {
+      "f": [
+        "IDX:DBX"
+      ],
+      "s": "IDX:DBX"
+    },
+    {
+      "f": [
+        "IDX:AGRI"
+      ],
+      "s": "IDX:AGRI"
+    },
+    {
+      "f": [
+        "IDX:MINING"
+      ],
+      "s": "IDX:MINING"
+    },
+    {
+      "f": [
+        "IDX:BASIC-IND"
+      ],
+      "s": "IDX:BASIC-IND"
+    },
+    {
+      "f": [
+        "IDX:MISC-IND"
+      ],
+      "s": "IDX:MISC-IND"
+    },
+    {
+      "f": [
+        "IDX:CONSUMER"
+      ],
+      "s": "IDX:CONSUMER"
+    },
+    {
+      "f": [
+        "IDX:PROPERTY"
+      ],
+      "s": "IDX:PROPERTY"
+    },
+    {
+      "f": [
+        "IDX:INFRASTRUC"
+      ],
+      "s": "IDX:INFRASTRUC"
+    },
+    {
+      "f": [
+        "IDX:FINANCE"
+      ],
+      "s": "IDX:FINANCE"
+    },
+    {
+      "f": [
+        "IDX:TRADE"
+      ],
+      "s": "IDX:TRADE"
+    },
+    {
+      "f": [
+        "IDX:MANUFACTUR"
+      ],
+      "s": "IDX:MANUFACTUR"
+    },
+    {
+      "f": [
+        "IDX:KOMPAS100"
+      ],
+      "s": "IDX:KOMPAS100"
+    },
+    {
+      "f": [
+        "IDX:ISSI"
+      ],
+      "s": "IDX:ISSI"
+    },
+    {
+      "f": [
+        "IDX:IDX30"
+      ],
+      "s": "IDX:IDX30"
+    }
+  ],
+  "fields": [
+    "brokerSymbol"
+  ]
+}
