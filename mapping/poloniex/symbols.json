@@ -297,5 +297,8 @@
 	}, {
 		"s": "POLONIEX:STORJBTC",
 		"f": ["BTC_STORJ"]
+	}, {
+		"s": "POLONIEX:BTCUSDC",
+		"f": ["USDC_BTC"]
 	}]
 }
