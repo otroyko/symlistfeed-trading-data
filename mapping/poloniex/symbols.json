@@ -52,6 +52,9 @@
 		"s": "POLONIEX:HUCBTC",
 		"f": ["BTC_HUC"]
 	}, {
+		"s": "POLONIEX:LPTBTC",
+		"f": ["BTC_LPT"]
+	}, {
 		"s": "POLONIEX:LTCBTC",
 		"f": ["BTC_LTC"]
 	}, {
