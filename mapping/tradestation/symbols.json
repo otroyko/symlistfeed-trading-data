@@ -30648,7 +30648,7 @@
 		"s": "OTC:ITHUF",
 		"f": ["ITHUF"]
 	}, {
-		"s": "CME_MINI:ESU19",
+		"s": "CME_MINI:ESU2019",
 		"f": ["ESU19"]
 	}],
 	"fields": ["brokerSymbol"]
